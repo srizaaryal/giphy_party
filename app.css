@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(164, 156, 177);
+}
+
+h1{
+    color: rgb(17, 18, 17);
+}
+
+input{
+    background-color: rgb(235, 237, 213);
+}
+#search{
+    background-color: rgb(235, 237, 213);
+}
+#remove{
+    background-color: rgb(235, 237, 213);
+}
